@@ -37,7 +37,7 @@
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=abhishekmankude&show_icons=true&theme=radical)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=abhishekmankude&theme=radical)](https://git.io/streak-stats)
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekmankude&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<!--[![trophy](https://github-profile-trophy.vercel.app/?username=abhishekmankude&theme=radical&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)-->
 
 ---
 
