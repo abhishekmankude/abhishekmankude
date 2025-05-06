@@ -37,7 +37,6 @@
 - 📧 Email: abhishekmankude@gmail.com  
 - 📞 Phone: 8310669294  
 - 💼 [LinkedIn](http://www.linkedin.com/in/abhishekmankude)  
-- 💻 [GitHub](https://github.com/abhishekmankude)
 
 ---
 
